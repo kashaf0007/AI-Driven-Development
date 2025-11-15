@@ -6,7 +6,7 @@
 
 **Task_1**
 
-1. *What does AI Driven Development mean to you?*
+1. **What does AI Driven Development mean to you?**
 
 	**ANSWER** : AI Driven Development means that Developer use 💻 (AI) Artificia Intelligence to improve development process ,to write a code , fix bugs, and explain details .Artificia Intelligence  (AI) to prove code,fast and easy development process.
 
@@ -15,7 +15,7 @@
 
 * This saves the developers time and can focus on complex task.
 
-2. *🤖 How do you see the future of Human–AI Collaboration in software development?*
+2. ** How do you see the future of Human–AI Collaboration in software development? 🤖 **
 
 	**ANSWER** :  🤝 AI or humans milkar software development karenge AI tool developer repetition nhi karega aur problem solve karega AI Code suggestion Dega box fix karega aur optimise performance which make development faster.
 
